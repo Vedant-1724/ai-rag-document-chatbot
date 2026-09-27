@@ -1,0 +1,23 @@
+# Virtual environment
+venv/
+
+# Environment variables
+.env
+
+# ChromaDB
+data/chroma/
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
