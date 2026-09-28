@@ -4,3 +4,5 @@ pypdf
 python-dotenv
 google-genai
 pytest
+requests
+beautifulsoup4
